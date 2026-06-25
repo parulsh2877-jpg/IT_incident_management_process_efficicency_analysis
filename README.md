@@ -1,7 +1,7 @@
 # IT Incident Management Process Efficiency Analysis
 
 ## Overview
-This project analyses ServiceNow incident management data to identify process inefficiencies and recommend improvements.
+This project analyses incident management data to identify process inefficiencies and recommend improvements.
 
 ## Tools Used
 - Excel
